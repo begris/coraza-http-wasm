@@ -7,7 +7,7 @@ require (
 	github.com/corazawaf/coraza-coreruleset/v4 v4.0.0
 	github.com/coreruleset/go-ftw v0.6.4
 	github.com/http-wasm/http-wasm-host-go v0.7.0
-	github.com/mccutchen/go-httpbin/v2 v2.14.0
+	github.com/mccutchen/go-httpbin/v2 v2.18.0
 	github.com/rs/zerolog v1.32.0
 )
 
